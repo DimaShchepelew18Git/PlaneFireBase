@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6713544312",
+    "firebase_url": "https://plane-ac666-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "plane-ac666",
+    "storage_bucket": "plane-ac666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6713544312:android:ea839562300a3678faa78d",
+        "android_client_info": {
+          "package_name": "com.example.planefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6713544312-q8qfvpv4eerjqh9j5m72rjkj0bqi7djm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlSrslhrW0EZUgZ9WfCMNyD_XCETctjyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6713544312-q8qfvpv4eerjqh9j5m72rjkj0bqi7djm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
